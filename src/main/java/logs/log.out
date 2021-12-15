@@ -1,0 +1,257 @@
+2021-12-12 21:12:298 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:293 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-12 21:12:504 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:590 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //button[normalize-space()='Login']]
+2021-12-12 21:12:219 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-12 21:12:299 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //input[@placeholder='amount']]
+2021-12-12 21:12:385 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //button[@type='submit']]
+2021-12-12 21:12:436 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (60f2558e926ed1b699b8ad7fe8bd02ac)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-12 21:12:201 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:224 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:179 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:515 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-12 21:12:804 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:897 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //button[normalize-space()='Login']]
+2021-12-12 21:12:297 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-12 21:12:798 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //input[@placeholder='amount']]
+2021-12-12 21:12:886 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //button[@type='submit']]
+2021-12-12 21:12:934 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (8929a0509cc95bf035247aedbf16f9ee)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-12 21:12:692 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:403 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (21fa85d1cf7f3d87c61ab52bb06a8a55)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-12 21:12:803 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (21fa85d1cf7f3d87c61ab52bb06a8a55)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:881 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (21fa85d1cf7f3d87c61ab52bb06a8a55)] -> xpath: //button[normalize-space()='Login']]
+2021-12-12 21:12:254 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-12 21:12:03 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:701 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (67aec6091ab8d4bbddd91c37cf32d893)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-12 21:12:102 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (67aec6091ab8d4bbddd91c37cf32d893)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:183 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (67aec6091ab8d4bbddd91c37cf32d893)] -> xpath: //button[normalize-space()='Login']]
+2021-12-12 21:12:570 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-12 21:12:700 INFO  CustomersPage :41 - Verifying logout button displayed : [[ChromeDriver: chrome on WINDOWS (67aec6091ab8d4bbddd91c37cf32d893)] -> xpath: //button[normalize-space()='Logout']]
+2021-12-12 21:12:537 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:04 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-12 21:12:417 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:483 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[normalize-space()='Login']]
+2021-12-12 21:12:63 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-12 21:12:470 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //input[@placeholder='amount']]
+2021-12-12 21:12:552 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[@type='submit']]
+2021-12-12 21:12:636 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-12 21:12:747 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-12 21:12:829 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-12 21:12:891 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (7e80623ed3e9780022aada5ef7f6ca7f)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-12 21:12:625 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:828 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-12 21:12:175 INFO  BankManagerLoginPage :30 - Click on add customer tab : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //button[normalize-space()='Add Customer']]
+2021-12-12 21:12:560 INFO  AddCustomerPage :40 - Add customer's first name : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //input[@placeholder='First Name']]
+2021-12-12 21:12:660 INFO  AddCustomerPage :49 - Add customer's last name : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //input[@placeholder='Last Name']]
+2021-12-12 21:12:783 INFO  AddCustomerPage :58 - Add customer's postcode : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //input[@placeholder='Post Code']]
+2021-12-12 21:12:871 INFO  AddCustomerPage :65 - Click on add customer button : [[ChromeDriver: chrome on WINDOWS (a94a50f2f06da7fb7fb4ba14afecf4d6)] -> xpath: //button[@type='submit']]
+2021-12-12 21:12:883 INFO  AddCustomerPage :73 - Verify successful addition message : Customer added succe
+2021-12-12 21:12:897 INFO  AddCustomerPage :81 - Accept alert
+2021-12-12 21:12:620 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:199 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (984b5f081686ce1066c3fd12b742d93c)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-12 21:12:685 INFO  BankManagerLoginPage :36 - Click on open account tab : [[ChromeDriver: chrome on WINDOWS (984b5f081686ce1066c3fd12b742d93c)] -> xpath: //button[normalize-space()='Open Account']]
+2021-12-12 21:12:151 INFO  OpenAccountPage :34 - Search customer name to open account : [[ChromeDriver: chrome on WINDOWS (984b5f081686ce1066c3fd12b742d93c)] -> xpath: //select[@id='userSelect']]
+2021-12-12 21:12:320 INFO  OpenAccountPage :40 - Select currency : [[ChromeDriver: chrome on WINDOWS (984b5f081686ce1066c3fd12b742d93c)] -> xpath: //select[@id='currency']]
+2021-12-12 21:12:442 INFO  OpenAccountPage :55 - Verifying new account created message : Account created successfully with account Number :1016
+2021-12-12 21:12:455 INFO  OpenAccountPage :60 - Accepting new account created successfully alert
+2021-12-15 17:12:397 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:155 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:739 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:837 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:226 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:656 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:747 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:793 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (d2c54c8f1fd3471c6fb373f25dc6e1f4)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-15 17:12:558 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:876 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (0e3656a2caefb0cd981681c39a22c4f8)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:385 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (0e3656a2caefb0cd981681c39a22c4f8)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:496 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (0e3656a2caefb0cd981681c39a22c4f8)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:871 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:598 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:796 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (e498ac2bcb8e957eb093eea6b7f03802)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:208 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (e498ac2bcb8e957eb093eea6b7f03802)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:429 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (e498ac2bcb8e957eb093eea6b7f03802)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:627 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:764 INFO  CustomersPage :41 - Verifying logout button displayed : [[ChromeDriver: chrome on WINDOWS (e498ac2bcb8e957eb093eea6b7f03802)] -> xpath: //button[normalize-space()='Logout']]
+2021-12-15 17:12:627 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:211 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:688 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:767 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:160 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:598 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:691 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:770 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-15 17:12:868 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-15 17:12:956 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-15 17:12:08 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (92118618abc5cba20c923589656e67ac)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-15 17:12:158 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:829 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 17:12:181 INFO  BankManagerLoginPage :30 - Click on add customer tab : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //button[normalize-space()='Add Customer']]
+2021-12-15 17:12:567 INFO  AddCustomerPage :40 - Add customer's first name : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //input[@placeholder='First Name']]
+2021-12-15 17:12:667 INFO  AddCustomerPage :49 - Add customer's last name : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //input[@placeholder='Last Name']]
+2021-12-15 17:12:785 INFO  AddCustomerPage :58 - Add customer's postcode : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //input[@placeholder='Post Code']]
+2021-12-15 17:12:880 INFO  AddCustomerPage :65 - Click on add customer button : [[ChromeDriver: chrome on WINDOWS (744a9584e3517180877b68fa3703f658)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:894 INFO  AddCustomerPage :73 - Verify successful addition message : Customer added succe
+2021-12-15 17:12:908 INFO  AddCustomerPage :81 - Accept alert
+2021-12-15 17:12:616 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:927 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (498a1105526bbdafe605a09f043d8346)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 17:12:133 INFO  BankManagerLoginPage :36 - Click on open account tab : [[ChromeDriver: chrome on WINDOWS (498a1105526bbdafe605a09f043d8346)] -> xpath: //button[normalize-space()='Open Account']]
+2021-12-15 17:12:599 INFO  OpenAccountPage :34 - Search customer name to open account : [[ChromeDriver: chrome on WINDOWS (498a1105526bbdafe605a09f043d8346)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:754 INFO  OpenAccountPage :40 - Select currency : [[ChromeDriver: chrome on WINDOWS (498a1105526bbdafe605a09f043d8346)] -> xpath: //select[@id='currency']]
+2021-12-15 17:12:868 INFO  OpenAccountPage :55 - Verifying new account created message : Account created successfully with account Number :1016
+2021-12-15 17:12:882 INFO  OpenAccountPage :60 - Accepting new account created successfully alert
+2021-12-15 17:12:706 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:814 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (85327c9f1f7f4a3aef850aec6a5dea52)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:241 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (85327c9f1f7f4a3aef850aec6a5dea52)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:478 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (85327c9f1f7f4a3aef850aec6a5dea52)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:821 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:573 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:825 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (c6563c089b753b1895a1b207c9222252)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:229 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (c6563c089b753b1895a1b207c9222252)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:301 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (c6563c089b753b1895a1b207c9222252)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:628 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:803 INFO  CustomersPage :41 - Verifying logout button displayed : [[ChromeDriver: chrome on WINDOWS (c6563c089b753b1895a1b207c9222252)] -> xpath: //button[normalize-space()='Logout']]
+2021-12-15 17:12:637 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:974 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:357 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:437 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:789 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:167 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:259 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:338 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-15 17:12:433 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-15 17:12:525 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-15 17:12:586 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (4a69bdf1d59e27df62e0ae692c945646)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-15 17:12:181 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:378 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:961 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:42 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:403 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:829 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:915 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:974 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (fba2a0bf07bdb53fe54e534f3b203232)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-15 17:12:768 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:139 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:716 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:800 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:207 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:623 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:710 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:758 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (d88e9876c8e4ff71efb595615aa5e5a5)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-15 17:12:486 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:891 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (3b1465b8d410347c7ff26847d4a7dcf0)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:374 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (3b1465b8d410347c7ff26847d4a7dcf0)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:462 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (3b1465b8d410347c7ff26847d4a7dcf0)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:825 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:569 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:974 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (1d70abb64fdc6260b369daadc280a0c5)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:357 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (1d70abb64fdc6260b369daadc280a0c5)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:435 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (1d70abb64fdc6260b369daadc280a0c5)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:890 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 17:12:09 INFO  CustomersPage :41 - Verifying logout button displayed : [[ChromeDriver: chrome on WINDOWS (1d70abb64fdc6260b369daadc280a0c5)] -> xpath: //button[normalize-space()='Logout']]
+2021-12-15 17:12:856 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:144 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 17:12:716 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:796 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 17:12:191 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 17:12:671 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 17:12:759 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:823 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-15 17:12:945 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-15 17:12:37 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-15 17:12:99 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (f4dd4c533e2937422f42a5a0afc5260c)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-15 17:12:504 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:184 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 17:12:589 INFO  BankManagerLoginPage :30 - Click on add customer tab : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //button[normalize-space()='Add Customer']]
+2021-12-15 17:12:22 INFO  AddCustomerPage :40 - Add customer's first name : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //input[@placeholder='First Name']]
+2021-12-15 17:12:138 INFO  AddCustomerPage :49 - Add customer's last name : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //input[@placeholder='Last Name']]
+2021-12-15 17:12:252 INFO  AddCustomerPage :58 - Add customer's postcode : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //input[@placeholder='Post Code']]
+2021-12-15 17:12:335 INFO  AddCustomerPage :65 - Click on add customer button : [[ChromeDriver: chrome on WINDOWS (7eab0fabb030706a6fd38992216d4c4d)] -> xpath: //button[@type='submit']]
+2021-12-15 17:12:347 INFO  AddCustomerPage :73 - Verify successful addition message : Customer added succe
+2021-12-15 17:12:361 INFO  AddCustomerPage :81 - Accept alert
+2021-12-15 17:12:75 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 17:12:372 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (008cebc008c74e1eae1e958896ce7c46)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 17:12:704 INFO  BankManagerLoginPage :36 - Click on open account tab : [[ChromeDriver: chrome on WINDOWS (008cebc008c74e1eae1e958896ce7c46)] -> xpath: //button[normalize-space()='Open Account']]
+2021-12-15 17:12:123 INFO  OpenAccountPage :34 - Search customer name to open account : [[ChromeDriver: chrome on WINDOWS (008cebc008c74e1eae1e958896ce7c46)] -> xpath: //select[@id='userSelect']]
+2021-12-15 17:12:262 INFO  OpenAccountPage :40 - Select currency : [[ChromeDriver: chrome on WINDOWS (008cebc008c74e1eae1e958896ce7c46)] -> xpath: //select[@id='currency']]
+2021-12-15 17:12:384 INFO  OpenAccountPage :55 - Verifying new account created message : Account created successfully with account Number :1016
+2021-12-15 17:12:398 INFO  OpenAccountPage :60 - Accepting new account created successfully alert
+2021-12-15 21:12:969 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:148 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:688 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:778 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:288 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 21:12:679 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 21:12:808 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:893 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (4548bc1997a5446bbda8e7ab91229936)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-15 21:12:800 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:351 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (40d5449429919cc61b2de36c92d03d12)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:774 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (40d5449429919cc61b2de36c92d03d12)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:869 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (40d5449429919cc61b2de36c92d03d12)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:261 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 21:12:153 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:862 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (1679145bc75f802b7bb7492bea34d0eb)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:480 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (1679145bc75f802b7bb7492bea34d0eb)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:571 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (1679145bc75f802b7bb7492bea34d0eb)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:953 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 21:12:131 INFO  CustomersPage :41 - Verifying logout button displayed : [[ChromeDriver: chrome on WINDOWS (1679145bc75f802b7bb7492bea34d0eb)] -> xpath: //button[normalize-space()='Logout']]
+2021-12-15 21:12:139 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:949 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:514 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:610 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:984 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 21:12:378 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 21:12:496 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:608 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-15 21:12:728 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-15 21:12:838 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-15 21:12:907 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (9fb1adb44719bc4743decb7bc8150cb0)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-15 21:12:907 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:679 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 21:12:87 INFO  BankManagerLoginPage :30 - Click on add customer tab : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //button[normalize-space()='Add Customer']]
+2021-12-15 21:12:558 INFO  AddCustomerPage :40 - Add customer's first name : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //input[@placeholder='First Name']]
+2021-12-15 21:12:706 INFO  AddCustomerPage :49 - Add customer's last name : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //input[@placeholder='Last Name']]
+2021-12-15 21:12:881 INFO  AddCustomerPage :58 - Add customer's postcode : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //input[@placeholder='Post Code']]
+2021-12-15 21:12:998 INFO  AddCustomerPage :65 - Click on add customer button : [[ChromeDriver: chrome on WINDOWS (ce546440da61ca59401e710016d0c0bb)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:22 INFO  AddCustomerPage :73 - Verify successful addition message : Customer added succe
+2021-12-15 21:12:41 INFO  AddCustomerPage :81 - Accept alert
+2021-12-15 21:12:25 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:566 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (5905adac8839569a29b30212436620b3)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 21:12:972 INFO  BankManagerLoginPage :36 - Click on open account tab : [[ChromeDriver: chrome on WINDOWS (5905adac8839569a29b30212436620b3)] -> xpath: //button[normalize-space()='Open Account']]
+2021-12-15 21:12:430 INFO  OpenAccountPage :34 - Search customer name to open account : [[ChromeDriver: chrome on WINDOWS (5905adac8839569a29b30212436620b3)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:599 INFO  OpenAccountPage :40 - Select currency : [[ChromeDriver: chrome on WINDOWS (5905adac8839569a29b30212436620b3)] -> xpath: //select[@id='currency']]
+2021-12-15 21:12:748 INFO  OpenAccountPage :55 - Verifying new account created message : Account created successfully with account Number :1016
+2021-12-15 21:12:763 INFO  OpenAccountPage :60 - Accepting new account created successfully alert
+2021-12-15 21:12:740 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:310 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:790 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:918 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:464 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 21:12:877 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 21:12:992 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:59 INFO  AccountPage :76 - Verifying successful deposit message : [[ChromeDriver: chrome on WINDOWS (c7d67b8fafe830714522bd53578ead95)] -> xpath: //span[contains(normalize-space(),'Deposit Successful')]]
+2021-12-15 21:12:208 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:818 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (169fa16babb9d2da2d587237cb15e741)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:302 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (169fa16babb9d2da2d587237cb15e741)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:435 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (169fa16babb9d2da2d587237cb15e741)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:783 INFO  CustomersPage :48 - Verifying user can logout successfullyHarry Potter
+2021-12-15 21:12:672 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:519 INFO  HomePage :38 - Clicking on customer log in tab : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[normalize-space()='Customer Login']]
+2021-12-15 21:12:169 INFO  CustomerLoginPage :31 - Search customer name : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //select[@id='userSelect']]
+2021-12-15 21:12:273 INFO  CustomerLoginPage :37 - Click on Log in button : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[normalize-space()='Login']]
+2021-12-15 21:12:656 INFO  AccountPage :56 - Clicking on Deposit Tab : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[normalize-space()='Deposit']]
+2021-12-15 21:12:84 INFO  AccountPage :62 - Entering deposit Amount : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //input[@placeholder='amount']]
+2021-12-15 21:12:204 INFO  AccountPage :68 - Clicking on Deposit Button : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:310 INFO  AccountPage :83 - Click on withdrawl tab : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[normalize-space()='Withdrawl']]
+2021-12-15 21:12:441 INFO  AccountPage :90 - Enter withdrawl amount : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: (//input[@placeholder='amount'])[1]]
+2021-12-15 21:12:590 INFO  AccountPage :97 - Click on withdrawl button : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //button[normalize-space()='Withdraw']]
+2021-12-15 21:12:651 INFO  AccountPage :106 - Verify Transaction successful message : [[ChromeDriver: chrome on WINDOWS (05599e701d8c61fb1c8577cb2874937a)] -> xpath: //span[contains(normalize-space(),'Transaction successful')]]
+2021-12-15 21:12:694 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-15 21:12:608 INFO  HomePage :31 - Clicking on bank manager log in tab : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2021-12-15 21:12:955 INFO  BankManagerLoginPage :30 - Click on add customer tab : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //button[normalize-space()='Add Customer']]
+2021-12-15 21:12:505 INFO  AddCustomerPage :40 - Add customer's first name : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //input[@placeholder='First Name']]
+2021-12-15 21:12:654 INFO  AddCustomerPage :49 - Add customer's last name : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //input[@placeholder='Last Name']]
+2021-12-15 21:12:795 INFO  AddCustomerPage :58 - Add customer's postcode : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //input[@placeholder='Post Code']]
+2021-12-15 21:12:927 INFO  AddCustomerPage :65 - Click on add customer button : [[ChromeDriver: chrome on WINDOWS (0b65bed132dbd584cdb0e5856fa97d03)] -> xpath: //button[@type='submit']]
+2021-12-15 21:12:953 INFO  AddCustomerPage :73 - Verify successful addition message : Customer added succe
+2021-12-15 21:12:974 INFO  AddCustomerPage :81 - Accept alert
